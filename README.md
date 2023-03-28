@@ -1,5 +1,5 @@
 # cursos
-lista de cursos
+Lista de cursos
 # Curriculum
 ##### ___Estudiante de Geografía en la___  [Universidad de Costa Rica](https://www.ucr.ac.cr/)
 ![imagen local](mundo.jpg)
